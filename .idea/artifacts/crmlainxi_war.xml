@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="crmlainxi:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="crmlianxi.war">
+      <element id="artifact" artifact-name="crmlainxi:war exploded" />
+    </root>
+  </artifact>
+</component>
